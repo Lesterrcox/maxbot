@@ -1,7 +1,5 @@
 [
-  "hubot-diagnostics",
   "hubot-help",
   "hubot-karma-classic",
-  "hubot-pugme",
   "hubot-redis-brain"
 ]
