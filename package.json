@@ -6,6 +6,7 @@
   "description": "A robotic Max",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-flip": "^2.17.1",
     "hubot-help": "^0.2.2",
     "hubot-irc": "^0.2.9",
     "hubot-karma-classic": "^1.0.3",

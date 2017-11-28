@@ -1,4 +1,5 @@
 [
+  "hubot-flip",
   "hubot-help",
   "hubot-karma-classic",
   "hubot-redis-brain"
